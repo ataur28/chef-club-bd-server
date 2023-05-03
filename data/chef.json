@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
       "name": "Margret Sanford",
       "experiences": "5 years",
@@ -8,7 +8,7 @@
       "likes": "5555"
     },
     {
-      "id": "2",
+      "id": 2,
       "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "name": "Buchanan Henry",
       "experiences": "4 years",
@@ -16,7 +16,7 @@
       "likes": "11111"
     },
     {
-      "id": "3",
+      "id": 3,
       "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "name": "Simone Glover",
       "experiences": "3 years",
@@ -24,7 +24,7 @@
       "likes": "1111"
     },
     {
-      "id": "4",
+      "id": 4,
       "picture": "https://media.istockphoto.com/id/1391235635/photo/portrait-of-black-female-chef-preparing-dish-tasting-food-and-enjoying-it-professional.jpg?s=2048x2048&w=is&k=20&c=YbH4-brdMsqmIVXauFhnpiJ9J39cjGgCrShMqR5iaoY=",
       "name": "Pittman Kelly",
       "experiences": "6 years",
@@ -32,7 +32,7 @@
       "likes": "2222"
     },
     {
-      "id": "5",
+      "id": 5,
       "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "name": "Geraldine Peck",
       "experiences": "5 years",
@@ -40,7 +40,7 @@
       "likes": "3333"
     },
     {
-      "id": "6",
+      "id": 6,
       "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "name": "Elma Stout",
       "experiences": "1 years",

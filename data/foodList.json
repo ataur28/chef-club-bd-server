@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bangladeshi Food",
+    "logo": "https://media.istockphoto.com/id/1173089065/photo/ilish-or-hilsa-famous-bengali-fish-curry-with-grinded-mustard-seed.jpg?s=2048x2048&w=is&k=20&c=VG4HRm7KvE5Z4Z9VVni3QhDVnDsNxSUdA3hW6Ba4XJI=",
+    "jobs": 300
+  },
+  {
+    "id": 2,
+    "name": "Indian Food",
+    "logo": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "jobs": 100
+  },
+  {
+    "id": 3,
+    "name": "Thai Food",
+    "logo": "https://images.unsplash.com/photo-1607330289024-1535c6b4e1c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "jobs": 150
+  },
+  {
+    "id": 4,
+    "name": "Chinese Food",
+    "logo": "https://images.unsplash.com/photo-1607330289024-1535c6b4e1c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "jobs": 224
+  }
+]
