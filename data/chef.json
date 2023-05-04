@@ -15,7 +15,7 @@
       "#Potato",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -50,15 +50,15 @@
     "recipes_number": "4",
     "likes": "11111",
     "description": "Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed\r\n",
-    "recipe_one": "Potato Bhurta",
+    "recipe_one": "Tomato Bhurta",
     "recipe_two": "Panta Llish",
     "recipe_three": "Chingri Malai Curry",
     "recipe_four": "Llish Bhaja",
     "ingredients_one": [
-      "#Potato",
+      "#Tomato",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -83,7 +83,7 @@
       "#Chilli"
     ],
     "cooking_method": "Bangali Food ",
-    "rating": "88%"
+    "rating": "82%"
   },
   {
     "id": 3,
@@ -93,15 +93,15 @@
     "recipes_number": "7",
     "likes": "1111",
     "description": "Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed\r\n",
-    "recipe_one": "Potato Bhurta",
+    "recipe_one": "Fish Bhurta",
     "recipe_two": "Panta Llish",
     "recipe_three": "Chingri Malai Curry",
     "recipe_four": "Llish Bhaja",
     "ingredients_one": [
-      "#Potato",
+      "#Fish",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -126,7 +126,7 @@
       "#Chilli"
     ],
     "cooking_method": "Bangali Food ",
-    "rating": "88%"
+    "rating": "78%"
   },
   {
     "id": 4,
@@ -136,15 +136,15 @@
     "recipes_number": "4",
     "likes": "2222",
     "description": "Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed\r\n",
-    "recipe_one": "Potato Bhurta",
+    "recipe_one": "Begun Bhurta",
     "recipe_two": "Panta Llish",
     "recipe_three": "Chingri Malai Curry",
     "recipe_four": "Llish Bhaja",
     "ingredients_one": [
-      "#Potato",
+      "#Begun",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -169,7 +169,7 @@
       "#Chilli"
     ],
     "cooking_method": "Bangali Food ",
-    "rating": "88%"
+    "rating": "91%"
   },
   {
     "id": 5,
@@ -179,15 +179,15 @@
     "recipes_number": "6",
     "likes": "3333",
     "description": "Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed\r\n",
-    "recipe_one": "Potato Bhurta",
+    "recipe_one": "Vegetable",
     "recipe_two": "Panta Llish",
     "recipe_three": "Chingri Malai Curry",
     "recipe_four": "Llish Bhaja",
     "ingredients_one": [
-      "#Potato",
+      "#Vegetable",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -212,7 +212,7 @@
       "#Chilli"
     ],
     "cooking_method": "Bangali Food ",
-    "rating": "88%"
+    "rating": "80%"
   },
   {
     "id": 6,
@@ -222,15 +222,15 @@
     "recipes_number": "5",
     "likes": "1113",
     "description": "Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed\r\n",
-    "recipe_one": "Potato Bhurta",
+    "recipe_one": "Chicken",
     "recipe_two": "Panta Llish",
     "recipe_three": "Chingri Malai Curry",
     "recipe_four": "Llish Bhaja",
     "ingredients_one": [
-      "#Potato",
+      "#Chicken",
       "#Onion",
       "#Sorisha Oil",
-      "#sold",
+      "#salt",
       "#Chilli"
     ],
     "ingredients_two": [
@@ -255,7 +255,7 @@
       "#Chilli"
     ],
     "cooking_method": "Bangali Food ",
-    "rating": "88%"
+    "rating": "89%"
   }
 ]
 
